@@ -1,4 +1,4 @@
-# my-first-project
+# my final-project
 This repository includes my CV and self-introduction presentation.
 ## My Files
 
